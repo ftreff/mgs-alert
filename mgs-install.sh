@@ -25,5 +25,5 @@ sleep 1
 echo "Install Complete!"
 sleep 1
 echo "Now go to the sound setting and select the 'Hum' alert sound"
-sleep 2
+sleep 5
 exit 1
